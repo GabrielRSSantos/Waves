@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "waves",
+    "slug": "waves",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "waves"
+}
